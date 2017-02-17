@@ -81,6 +81,7 @@
 		09A944581A4EB91F00C8A04F /* version.h in Headers */ = {isa = PBXBuildFile; fileRef = 09A944241A4EB91F00C8A04F /* version.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		09A9445A1A4EB97800C8A04F /* sodium_lib.h in Headers */ = {isa = PBXBuildFile; fileRef = 09A944591A4EB97800C8A04F /* sodium_lib.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		7C2075901E43E761004B2B2A /* Hash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C20758F1E43E761004B2B2A /* Hash.swift */; };
+		7C4D9FFA1E579CEA00AB6AC0 /* Hash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C20758F1E43E761004B2B2A /* Hash.swift */; };
 		901644FF1AE3733F00163E3E /* Sodium.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90C75E941AE3571900F1E749 /* Sodium.framework */; };
 		901645011AE374D100163E3E /* Sodium.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09A943C71A4EB5F500C8A04F /* Sodium.framework */; };
 		901645031AE376C100163E3E /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901645021AE376C100163E3E /* Helpers.swift */; };
@@ -878,6 +879,7 @@
 				CFD847281BA8120900B1260F /* PWHash.swift in Sources */,
 				90C75EE71AE3583E00F1E749 /* GenericHash.swift in Sources */,
 				90C75EE91AE3583E00F1E749 /* RandomBytes.swift in Sources */,
+				7C4D9FFA1E579CEA00AB6AC0 /* Hash.swift in Sources */,
 				90C75EEA1AE3583E00F1E749 /* ShortHash.swift in Sources */,
 				90C75EEB1AE3583E00F1E749 /* Sign.swift in Sources */,
 				90C75EEC1AE3583E00F1E749 /* Sodium.swift in Sources */,
